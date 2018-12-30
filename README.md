@@ -1,6 +1,6 @@
 # Clojure-mail
 
-![](https://travis-ci.org/owainlewis/clojure-mail.svg?branch=master)
+![](https://travis-ci.org/kwieloch/clojure-mail.svg?branch=master)
 
 [![Clojars Project](http://clojars.org/io.forward/clojure-mail/latest-version.svg#)](http://clojars.org/io.forward/clojure-mail)
 
